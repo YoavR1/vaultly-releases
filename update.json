@@ -1,0 +1,7 @@
+{
+  "versionCode": 47,
+  "versionName": "1.0.46",
+  "apkUrl": "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.46/vaultly-release-1.0.46.apk",
+  "notes": "Vaultly update with GitHub APK updater.",
+  "force": false
+}
