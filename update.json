@@ -1,7 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.53",
-  "apkUrl": "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.53/vaultly-release-1.0.53.apk",
-  "notes": "Fixes repeated update prompts, adds Valorant spend to the account sheet, and protects account data during shop reset refreshes.",
-  "force": false
+    "versionCode":  55,
+    "versionName":  "1.0.54",
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.54/vaultly-release-1.0.54.apk",
+    "sha256":  "ec269d5b919896a262b87c5ce2977403cb97c1267a813544d35e304de5ab3a9f",
+    "notes":  "Silences account-sheet refresh text, improves Riot support purchase history loading, and keeps previous spend totals on temporary support failures.",
+    "force":  false
 }
+
