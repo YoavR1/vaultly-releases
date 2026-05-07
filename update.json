@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.51",
-  "apkUrl": "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.51/vaultly-release-1.0.51.apk",
-  "notes": "Vaultly 1.0.51 is available.",
+  "versionCode": 53,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.52/vaultly-release-1.0.52.apk",
+  "notes": "Vaultly 1.0.52 adds Valorant spending in Profile.",
   "force": false
 }
