@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.57",
-    "versionName":  "1.0.57",
-    "versionCode":  58,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.57/vaultly-release-1.0.57.apk",
-    "sha256":  "afc6c11721df48fb77c7edc0e8487786f64c0664a247beaad26d9e1ae8626456",
-    "size":  91025643,
+    "version":  "1.0.58",
+    "versionName":  "1.0.58",
+    "versionCode":  59,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.58/vaultly-release-1.0.58.apk",
+    "sha256":  "1f7c0fe509ab259ac0baba415354fc8b3b58a3253c05d3c2542ef56af649502e",
+    "size":  91025621,
     "releaseNotes":  [
-                         "Isolates purchase-history sessions per selected Riot account",
-                         "Invalidates old cached spend values saved before isolation",
-                         "Shows 0 spend for accounts with an empty purchase history"
+                         "Clears native Riot support cookies before and after purchase-history calls",
+                         "Prevents previous-account support sessions from attaching to another account spend request",
+                         "Invalidates old cached spend values from 1.0.57"
                      ]
 }
