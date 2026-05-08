@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.60",
-    "versionName":  "1.0.60",
-    "versionCode":  61,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.60/vaultly-release-1.0.60.apk",
-    "sha256":  "47aabd515fec4d2f46e8ebeb212dadf00c4dd13ee202201c61fbd2c1d83fe571",
-    "size":  91026777,
+    "version":  "1.0.61",
+    "versionName":  "1.0.61",
+    "versionCode":  62,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.61/vaultly-release-1.0.61.apk",
+    "sha256":  "e0c3ff1285da17caac3282a0ed39aa386a8f32621aad408c7c1a9d62878596e8",
+    "size":  91029170,
     "releaseNotes":  [
-                         "Stops expired cached storefront data from being shown after shop reset",
-                         "Keeps stale cache only for safety checks, not for rendering the current store",
-                         "Forces fresh store/profile data when cached reset timers are already expired"
+                         "Adds Night Market hidden tier cards with tap-to-reveal flip animation",
+                         "Persists revealed Night Market cards per account and current market offers",
+                         "Clears Night Market reveal state when logging out of an account"
                      ]
 }
