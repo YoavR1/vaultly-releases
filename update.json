@@ -1,13 +1,14 @@
 {
-    "version":  "1.0.63",
-    "versionName":  "1.0.63",
-    "versionCode":  64,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.63/vaultly-release-1.0.63.apk",
-    "sha256":  "cce9e8c52092a3067e7cd824307c280cb0d1ee2913f547ad57ccf5e4dfc40edf",
-    "size":  91029077,
+    "version":  "1.0.64",
+    "versionName":  "1.0.64",
+    "versionCode":  65,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.64/vaultly-release-1.0.64.apk",
+    "sha256":  "c9036cce888910cd7867d62d495c392825ea733c298b655496405babb9148b98",
+    "size":  91029291,
     "releaseNotes":  [
-                         "Unifies Store, Bundles, Night Market, and Accessories card sizing",
-                         "Makes offer cards taller with larger artwork, labels, names, and prices",
-                         "Updates bundle item cards to match the rest of the app"
+                         "Makes the title/account header sticky while scrolling",
+                         "Removes extra vertical blank space around the header and offers",
+                         "Redesigns refresh timers as a thin centered divider row",
+                         "Lightens card backgrounds across the app"
                      ]
 }
