@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.59",
-    "versionName":  "1.0.59",
-    "versionCode":  60,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.59/vaultly-release-1.0.59.apk",
-    "sha256":  "c66140c254321df3b25de1c8d48b665d7b4b8a542cab8609fd9b25101c9a59e3",
-    "size":  91026261,
+    "version":  "1.0.60",
+    "versionName":  "1.0.60",
+    "versionCode":  61,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.60/vaultly-release-1.0.60.apk",
+    "sha256":  "47aabd515fec4d2f46e8ebeb212dadf00c4dd13ee202201c61fbd2c1d83fe571",
+    "size":  91026777,
     "releaseNotes":  [
-                         "Clears stale cached account snapshots after app updates",
-                         "Keeps saved Riot accounts while forcing fresh profile, store, gallery, wallet, and purchase data after upgrades",
-                         "Adds cache-version guards so broken pre-update user data cannot load again"
+                         "Stops expired cached storefront data from being shown after shop reset",
+                         "Keeps stale cache only for safety checks, not for rendering the current store",
+                         "Forces fresh store/profile data when cached reset timers are already expired"
                      ]
 }
