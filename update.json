@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.61",
-    "versionName":  "1.0.61",
-    "versionCode":  62,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.61/vaultly-release-1.0.61.apk",
-    "sha256":  "e0c3ff1285da17caac3282a0ed39aa386a8f32621aad408c7c1a9d62878596e8",
-    "size":  91029170,
+    "version":  "1.0.62",
+    "versionName":  "1.0.62",
+    "versionCode":  63,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.62/vaultly-release-1.0.62.apk",
+    "sha256":  "65a5ea2aecd1e06b4ed16b28b678165aa2cd82c3883e970ac1837d3a82588d49",
+    "size":  91029224,
     "releaseNotes":  [
-                         "Adds Night Market hidden tier cards with tap-to-reveal flip animation",
-                         "Persists revealed Night Market cards per account and current market offers",
-                         "Clears Night Market reveal state when logging out of an account"
+                         "Matches Night Market card spacing to the Store card spacing",
+                         "Reduces extra blank space above tab content",
+                         "Reduces extra bottom padding above the floating navbar"
                      ]
 }
