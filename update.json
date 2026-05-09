@@ -1,14 +1,14 @@
-{
-    "version":  "1.0.64",
-    "versionName":  "1.0.64",
-    "versionCode":  65,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.64/vaultly-release-1.0.64.apk",
-    "sha256":  "c9036cce888910cd7867d62d495c392825ea733c298b655496405babb9148b98",
-    "size":  91029291,
+﻿{
+    "version":  "1.0.68",
+    "versionName":  "1.0.68",
+    "versionCode":  70,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.68/vaultly-release-1.0.68.apk",
+    "apkName":  "vaultly-release-1.0.68.apk",
+    "sha256":  "5f6d28a190529df3bf66000a992348761ef9e2607b8f6d2b199b967d6bd1017a",
+    "size":  91031530,
     "releaseNotes":  [
-                         "Makes the title/account header sticky while scrolling",
-                         "Removes extra vertical blank space around the header and offers",
-                         "Redesigns refresh timers as a thin centered divider row",
-                         "Lightens card backgrounds across the app"
+                         "Pulls every page closer to the top with less empty header space",
+                         "Redesigns the compact account/profile control in the page header",
+                         "Adds a sliding tab-bar selection that follows taps and swipes"
                      ]
 }
