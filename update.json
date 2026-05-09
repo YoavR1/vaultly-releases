@@ -1,12 +1,14 @@
-{
-    "version":  "1.0.70",
-    "versionName":  "1.0.70",
-    "versionCode":  72,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.70/vaultly-release-1.0.70.apk",
-    "apkName":  "vaultly-release-1.0.70.apk",
-    "sha256":  "c640ad2bfab0acb12a389021129f91bfba2c9d414268a83ebc0b300068f66437",
-    "size":  91031435,
+﻿{
+    "version":  "1.0.71",
+    "versionName":  "1.0.71",
+    "versionCode":  73,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.71/vaultly-release-1.0.71.apk",
+    "apkName":  "vaultly-release-1.0.71.apk",
+    "sha256":  "9fb1ee6b4ccb1e3c2ee1b54d14bd4b1e71b30a32ca0761bee26ef27c7a00742d",
+    "size":  91031950,
     "releaseNotes":  [
-                         "Adds proper status-bar clearance without restoring the large top blank space"
+                         "Makes the top-right account control taller and less cramped",
+                         "Opens saved sessions faster by using cached account data before background refresh",
+                         "Stops Valorant spend loading from blocking app startup"
                      ]
 }
