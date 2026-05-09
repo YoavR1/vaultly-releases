@@ -1,14 +1,12 @@
 {
-    "version":  "1.0.69",
-    "versionName":  "1.0.69",
-    "versionCode":  71,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.69/vaultly-release-1.0.69.apk",
-    "apkName":  "vaultly-release-1.0.69.apk",
-    "sha256":  "81033d2d98c17069fa3b89b2251b2d75dc090788f4ec3610c38891d9a22041d6",
-    "size":  91031455,
+    "version":  "1.0.70",
+    "versionName":  "1.0.70",
+    "versionCode":  72,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.70/vaultly-release-1.0.70.apk",
+    "apkName":  "vaultly-release-1.0.70.apk",
+    "sha256":  "c640ad2bfab0acb12a389021129f91bfba2c9d414268a83ebc0b300068f66437",
+    "size":  91031435,
     "releaseNotes":  [
-                         "Removes the extra top safe-area gap on Vaultly tabs",
-                         "Removes the duplicate account subtitle under Store",
-                         "Improves Valorant spend loading by using the full saved Riot support cookie path first"
+                         "Adds proper status-bar clearance without restoring the large top blank space"
                      ]
 }
