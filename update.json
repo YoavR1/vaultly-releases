@@ -1,14 +1,14 @@
-﻿{
-    "version":  "1.0.68",
-    "versionName":  "1.0.68",
-    "versionCode":  70,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.68/vaultly-release-1.0.68.apk",
-    "apkName":  "vaultly-release-1.0.68.apk",
-    "sha256":  "5f6d28a190529df3bf66000a992348761ef9e2607b8f6d2b199b967d6bd1017a",
-    "size":  91031530,
+{
+    "version":  "1.0.69",
+    "versionName":  "1.0.69",
+    "versionCode":  71,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.69/vaultly-release-1.0.69.apk",
+    "apkName":  "vaultly-release-1.0.69.apk",
+    "sha256":  "81033d2d98c17069fa3b89b2251b2d75dc090788f4ec3610c38891d9a22041d6",
+    "size":  91031455,
     "releaseNotes":  [
-                         "Pulls every page closer to the top with less empty header space",
-                         "Redesigns the compact account/profile control in the page header",
-                         "Adds a sliding tab-bar selection that follows taps and swipes"
+                         "Removes the extra top safe-area gap on Vaultly tabs",
+                         "Removes the duplicate account subtitle under Store",
+                         "Improves Valorant spend loading by using the full saved Riot support cookie path first"
                      ]
 }
