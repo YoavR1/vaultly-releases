@@ -1,14 +1,14 @@
 {
-    "version":  "1.0.67",
-    "versionName":  "1.0.67",
-    "versionCode":  68,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.67/vaultly-release-1.0.67.apk",
-    "apkName":  "vaultly-release-1.0.67.apk",
-    "sha256":  "91beda31899153dcaa67870f7e4184fd889f4b6e6c9f94ff786fedec5f76457f",
-    "size":  91028885,
+    "version":  "1.0.64",
+    "versionName":  "1.0.64",
+    "versionCode":  65,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.64/vaultly-release-1.0.64.apk",
+    "sha256":  "c9036cce888910cd7867d62d495c392825ea733c298b655496405babb9148b98",
+    "size":  91029291,
     "releaseNotes":  [
-                         "Redesigns Vaultly with a cleaner black and gray visual system",
-                         "Reworks cards, header, tab bar, and account controls for a more minimal layout",
-                         "Keeps Valorant skin tier colors unchanged"
+                         "Makes the title/account header sticky while scrolling",
+                         "Removes extra vertical blank space around the header and offers",
+                         "Redesigns refresh timers as a thin centered divider row",
+                         "Lightens card backgrounds across the app"
                      ]
 }
