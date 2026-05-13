@@ -1,15 +1,14 @@
 ﻿{
-    "version":  "1.0.72",
-    "versionName":  "1.0.72",
-    "versionCode":  74,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.72/vaultly-release-1.0.72.apk",
-    "apkName":  "vaultly-release-1.0.72.apk",
-    "sha256":  "2dd9fd086edb36bcd85c35bd45e3c72d7fe256c429939a44728150720541fc02",
-    "size":  91031504,
+    "version":  "1.0.73",
+    "versionName":  "1.0.73",
+    "versionCode":  75,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.73/vaultly-release-1.0.73.apk",
+    "apkName":  "vaultly-release-1.0.73.apk",
+    "sha256":  "f3c75a240bf61819ec22bdeb60e6ed424df2e6f306075f6f9abe729342795911",
+    "size":  91033485,
     "releaseNotes":  [
-                         "Fixes pager swipes getting stuck between tabs",
-                         "Fixes invisible but tappable skin cards after interrupted animations",
-                         "Keeps cached accounts open during token or cookie refresh instead of blocking startup",
-                         "Stops background session warmups from forcing the reauth screen on transient cookie failures"
+                         "Shows non-skin bundle rewards like cards, buddies, sprays, titles, and flex items",
+                         "Adds a bundle switcher when multiple featured bundles are active",
+                         "Refreshes cached Valorant static data to include flex item metadata"
                      ]
 }
