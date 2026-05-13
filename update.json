@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "1.0.73",
-    "versionName":  "1.0.73",
-    "versionCode":  75,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.73/vaultly-release-1.0.73.apk",
-    "apkName":  "vaultly-release-1.0.73.apk",
-    "sha256":  "f3c75a240bf61819ec22bdeb60e6ed424df2e6f306075f6f9abe729342795911",
-    "size":  91033485,
+    "version":  "1.0.74",
+    "versionName":  "1.0.74",
+    "versionCode":  76,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.74/vaultly-release-1.0.74.apk",
+    "apkName":  "vaultly-release-1.0.74.apk",
+    "sha256":  "aab2f8b2321fc8a28198d3077e88e61b8b1902d8325442a33a0dde0599197666",
+    "size":  91036268,
     "releaseNotes":  [
-                         "Shows non-skin bundle rewards like cards, buddies, sprays, titles, and flex items",
-                         "Adds a bundle switcher when multiple featured bundles are active",
-                         "Refreshes cached Valorant static data to include flex item metadata"
+                         "Fixes accessory-only bundles showing generic item names",
+                         "Resolves bundle buddies, cards, sprays, titles, and flex items through Valorant API item endpoints when storefront IDs are not static asset IDs",
+                         "Keeps the multi-bundle switcher from the previous build"
                      ]
 }
