@@ -1,14 +1,15 @@
 ﻿{
-    "version":  "1.0.71",
-    "versionName":  "1.0.71",
-    "versionCode":  73,
-    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.71/vaultly-release-1.0.71.apk",
-    "apkName":  "vaultly-release-1.0.71.apk",
-    "sha256":  "9fb1ee6b4ccb1e3c2ee1b54d14bd4b1e71b30a32ca0761bee26ef27c7a00742d",
-    "size":  91031950,
+    "version":  "1.0.72",
+    "versionName":  "1.0.72",
+    "versionCode":  74,
+    "apkUrl":  "https://github.com/YoavR1/vaultly-releases/releases/download/v1.0.72/vaultly-release-1.0.72.apk",
+    "apkName":  "vaultly-release-1.0.72.apk",
+    "sha256":  "2dd9fd086edb36bcd85c35bd45e3c72d7fe256c429939a44728150720541fc02",
+    "size":  91031504,
     "releaseNotes":  [
-                         "Makes the top-right account control taller and less cramped",
-                         "Opens saved sessions faster by using cached account data before background refresh",
-                         "Stops Valorant spend loading from blocking app startup"
+                         "Fixes pager swipes getting stuck between tabs",
+                         "Fixes invisible but tappable skin cards after interrupted animations",
+                         "Keeps cached accounts open during token or cookie refresh instead of blocking startup",
+                         "Stops background session warmups from forcing the reauth screen on transient cookie failures"
                      ]
 }
