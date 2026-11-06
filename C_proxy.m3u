@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ONE.HD.il" tvg-name="ONE 1 HD Israel" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/one-1-hd-israel.png" group-title="Israel Sports",ONE 1 HD Israel
+https://srhady.vercel.app/stream?id=541
+
+#EXTINF:-1 tvg-id="ONE2.HD.il" tvg-name="ONE 2 HD Israel" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/one-2-hd-israel.png" group-title="Israel Sports",ONE 2 HD Israel
+https://srhady.vercel.app/stream?id=542
+
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-name="Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-live-israel.png" group-title="Israel Sports",Sport 5 Live Israel
+https://srhady.vercel.app/stream?id=146
+
+#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-name="Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-stars-israel.png" group-title="Israel Sports",Sport 5 Star Israel
+https://srhady.vercel.app/stream?id=147
+
+#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" tvg-name="Sport 5 Gold Israel" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-gold-israel.png" group-title="Israel Sports",Sport 5 Gold Israel
+https://srhady.vercel.app/stream?id=148
